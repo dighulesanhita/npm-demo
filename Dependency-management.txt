@@ -1,0 +1,24 @@
+1. Project Dependencies
+    i. for the func of the app
+    ii. will be part of the deployable codebase
+    iii. dropzone, jquery, express
+    iv. commands:
+        npm install dropzone
+        npm i dropzone --save
+
+        npm uninstall express --save
+
+        npm update express --save
+
+2. Development Dependencies
+    i. for the developemnt workflow(for ex: auto restarting of server)
+    ii. Examples: typescript
+    iii. commands
+        npm install typescript --save-dev
+        npm i typescript --save-dev
+        npm i typescript -D
+        npm i typescript -D
+
+        npm update typescript --D
+
+        npm uninstall typescript --D

@@ -1,0 +1,15 @@
+http://example.com/auth/signup
+http://example.com/auth/login
+http://example.com/auth/signup
+
+// feature 1
+http://example.com/users
+http://example.com/users/add
+http://example.com/users/1
+http://example.com/users/2
+
+// feature 2
+http://example.com/employees
+http://example.com/employees/add
+
+
